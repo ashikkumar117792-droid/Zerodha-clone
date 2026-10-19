@@ -1,0 +1,17 @@
+# Dependencies
+**/node_modules/
+
+# Environment files
+**/.env
+.env
+.env.*
+!.env.example
+
+# Mac files
+.DS_Store
+**/.DS_Store
+
+# Build files
+**/build/
+**/dist/
+**/coverage/
